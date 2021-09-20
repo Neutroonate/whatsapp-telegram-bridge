@@ -10,22 +10,14 @@
     "start": "node index.js",
     "deploy": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/UKnowWhoIm/whatsapp-telegram-bridge.git"
-  },
   "keywords": [
     "Whatsapp",
     "Telegram",
     "Bot",
     "Bridge"
   ],
-  "author": "UKnowWhoIm",
+  "author": "Vlamizzz",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/UKnowWhoIm/whatsapp-telegram-bridge/issues"
-  },
-  "homepage": "https://github.com/UKnowWhoIm/whatsapp-telegram-bridge#readme",
   "dependencies": {
     "express": "^4.17.1",
     "jshint": "^2.12.0",
